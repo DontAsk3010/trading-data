@@ -1,0 +1,112 @@
+{
+  "ANTM": [
+    {
+      "price": 2800.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 2810.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 2790.0,
+      "title": "Level Vol #3"
+    }
+  ],
+  "BBRI": [
+    {
+      "price": 3050.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 3040.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 3030.0,
+      "title": "Level Vol #3"
+    }
+  ],
+  "BREN": [
+    {
+      "price": 2190.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 2200.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 2130.0,
+      "title": "Level Vol #3"
+    }
+  ],
+  "BTEK": [
+    {
+      "price": 11.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 12.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 10.0,
+      "title": "Level Vol #3"
+    }
+  ],
+  "CSMI": [
+    {
+      "price": 340.0,
+      "title": "POC (Bandar)"
+    }
+  ],
+  "MEJA": [
+    {
+      "price": 93.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 92.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 91.0,
+      "title": "Level Vol #3"
+    }
+  ],
+  "PTSP": [
+    {
+      "price": 2240.0,
+      "title": "POC (Bandar)"
+    }
+  ],
+  "VKTR": [
+    {
+      "price": 354.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 362.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 352.0,
+      "title": "Level Vol #3"
+    }
+  ],
+  "WMUU": [
+    {
+      "price": 49.0,
+      "title": "POC (Bandar)"
+    },
+    {
+      "price": 48.0,
+      "title": "Level Vol #2"
+    },
+    {
+      "price": 47.0,
+      "title": "Level Vol #3"
+    }
+  ]
+}
