@@ -200,6 +200,21 @@
     "title": "Level Vol #3"
   },
   {
+    "ticker": "MORA",
+    "price": 1390.0,
+    "title": "POC"
+  },
+  {
+    "ticker": "MORA",
+    "price": 1490.0,
+    "title": "Level Vol #2"
+  },
+  {
+    "ticker": "MORA",
+    "price": 1500.0,
+    "title": "Level Vol #3"
+  },
+  {
     "ticker": "NZIA",
     "price": 101.0,
     "title": "POC"
@@ -266,12 +281,12 @@
   },
   {
     "ticker": "SOLA",
-    "price": 74.0,
+    "price": 75.0,
     "title": "POC"
   },
   {
     "ticker": "SOLA",
-    "price": 75.0,
+    "price": 74.0,
     "title": "Level Vol #2"
   },
   {
