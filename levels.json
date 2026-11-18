@@ -185,6 +185,21 @@
     "title": "Level Vol #3"
   },
   {
+    "ticker": "NZIA",
+    "price": 101.0,
+    "title": "POC"
+  },
+  {
+    "ticker": "NZIA",
+    "price": 100.0,
+    "title": "Level Vol #2"
+  },
+  {
+    "ticker": "NZIA",
+    "price": 99.0,
+    "title": "Level Vol #3"
+  },
+  {
     "ticker": "PTSP",
     "price": 2240.0,
     "title": "POC"
