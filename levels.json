@@ -140,6 +140,21 @@
     "title": "Level Vol #3"
   },
   {
+    "ticker": "MGNA",
+    "price": 256.0,
+    "title": "POC"
+  },
+  {
+    "ticker": "MGNA",
+    "price": 258.0,
+    "title": "Level Vol #2"
+  },
+  {
+    "ticker": "MGNA",
+    "price": 254.0,
+    "title": "Level Vol #3"
+  },
+  {
     "ticker": "PTSP",
     "price": 2240.0,
     "title": "POC"
