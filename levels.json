@@ -30,6 +30,21 @@
     "title": "Level Vol #3"
   },
   {
+    "ticker": "BAJA",
+    "price": 200.0,
+    "title": "POC"
+  },
+  {
+    "ticker": "BAJA",
+    "price": 202.0,
+    "title": "Level Vol #2"
+  },
+  {
+    "ticker": "BAJA",
+    "price": 208.0,
+    "title": "Level Vol #3"
+  },
+  {
     "ticker": "BBRI",
     "price": 3050.0,
     "title": "POC"
