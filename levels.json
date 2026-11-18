@@ -90,6 +90,21 @@
     "title": "Level Vol #3"
   },
   {
+    "ticker": "COIN",
+    "price": 410.0,
+    "title": "POC"
+  },
+  {
+    "ticker": "COIN",
+    "price": 412.0,
+    "title": "Level Vol #2"
+  },
+  {
+    "ticker": "COIN",
+    "price": 418.0,
+    "title": "Level Vol #3"
+  },
+  {
     "ticker": "CSMI",
     "price": 340.0,
     "title": "POC"
